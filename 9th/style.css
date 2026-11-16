@@ -1,0 +1,18 @@
+h1 {
+    color: orange; /*h1の文字を赤にする*/
+    margin: 1em 2em;
+}
+
+h2 {
+    color: skyblue;
+    margin: 2em 3em;
+}
+
+p {
+    border: thin green solid;
+    margin: 1em 4em;
+    padding: 0.5em;
+}
+figure {
+    margin: 1em 4em;
+}
